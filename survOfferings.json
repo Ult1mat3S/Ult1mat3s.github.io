@@ -1,0 +1,239 @@
+{
+  "offerings": [
+    {
+      "name": "Escape! Cake",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_escapeCake.png?cf850a",
+      "description": "Grants +100 % bonus Bloodpoints in all Scoring Categories.\nThe bonus Bloodpoints are applied after exiting the Trial.\n\"This picture of a cake sure is real.\""
+    },
+    {
+      "name": "Bloody Party Streamers",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_bloodyPartyStreamers.png?c37deb",
+      "description": "Grants +100 % bonus Bloodpoints in all Scoring Categories to all Players.\nThe bonus Bloodpoints are applied after exiting the Trial.\n\"A reminder of a bloody good time when people came together, but left screaming.\""
+    },
+    {
+      "name": "Chalk Pouch",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_chalkPouch.png?b7bcf4",
+      "description": "\nUnlocks the ability to attempt Self-Unhooks during the first Hook Stage:\nIncreases your personal Luck at succeeding them by +1 %.\n\"A small cotton pouch filled with white chalky powder of unknown origin.\nSome believe it brings good fortune.\""
+    },
+    {
+      "name": "Cream Chalk Pouch",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_creamChalkPouch.png?154e93",
+      "description": "\nUnlocks the ability to attempt Self-Unhooks during the first Hook Stage:\nIncreases your personal Luck at succeeding them by +2 %.\n\"A small cotton pouch half-filled with a cream coloured chalky powder of unknown origin.\nReleases a faint herbal aroma. Some believe it brings good fortune.\""
+    },
+    {
+      "name": "Ivory Chalk Pouch",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_ivoryChalkPouch.png?79c240",
+      "description": "\nUnlocks the ability to attempt Self-Unhooks during the first Hook Stage:\nIncreases your personal Luck at succeeding them by +3 %.\n\"A small leather pouch displaying a straight white line hand-sewn on one of its sides.\nThe bag is filled with an ivory chalky powder that shines under the moonlight.\nSome believe it brings good fortune.\""
+    },
+    {
+      "name": "Bloodied Blueprint",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_bloodiedBlueprint.png?29cd50",
+      "description": "\nGrants the following effects at the start of the Trial:\nIncreases the likelihood of the Basement spawning in the Killer Shack by +100 %, if it is available.\nThe Auras of the Basement Hooks are revealed to you for 20 seconds.\n\"Spatters of dried blood partially conceal the design.\""
+    },
+    {
+      "name": "Torn Blueprint",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_tornBlueprint.png?5f9d67",
+      "description": "\nGrants the following effects at the start of the Trial:\nIncreases the likelihood of the Basement spawning in the Landmark Building by +100 %, if it is available.\nThe Auras of the Basement Hooks are revealed to you for 20 seconds.\n\"Though brittle and torn, the design is mostly legible.\""
+    },
+    {
+      "name": "Tarnished Coin",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_tarnishedCoin.png?145990",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the number of Chests in the environment by +1.\n\"A round piece of metal which has lost all sheen.\""
+    },
+    {
+      "name": "Shiny Coin",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_shinyCoin.png?e215e2",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the number of Chests in the environment by +2.\n\"A clean and polished piece of gold.\""
+    },
+    {
+      "name": "Clear Reagent",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_clearReagent.png?9dd727",
+      "description": "\nCalls upon The Entity for the following effect:\nReduces the thickness of the Dark Mist by -50 %.\n\"The Mist rolls in, traps all in its deep madness.\nThere is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest.\" — Unknown, Notebook"
+    },
+    {
+      "name": "Faint Reagent",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_faintReagent.png?c4e9fb",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the thickness of the Dark Mist by +25 %.\n\"Paralysed, I stand in the cold as death lingers.\""
+    },
+    {
+      "name": "Hazy Reagent",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_hazyReagent.png?3558c4",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the thickness of the Dark Mist by +50 %.\n\"The Mist is alluring, hypnotising.\nI love it and fear it at the same time.\" — Donna's Sketchbook"
+    },
+    {
+      "name": "Murky Reagent",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_murkyReagent.png?1bf707",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the thickness of the Dark Mist by +75 %.\n\"The Mist seems to protect us from the beast, but it is a poison, a cancer, filling us with darkness and insanity.\" — Unknown, Notebook"
+    },
+    {
+      "name": "Annotated Blueprint",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_annotatedBlueprint.png?979e92",
+      "description": "\nGrants the following effect at the start of the Trial:\nIncreases the likelihood of the Hatch spawning by the Killer Shack by +100 %, if it is available.\n\"Essential information is scribbled along the side, but by whom?\""
+    },
+    {
+      "name": "Vigo's Blueprint",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_vigosBlueprint.png?99e22e",
+      "description": "\nGrants the following effect at the start of the Trial:\nIncreases the likelihood of the Hatch spawning by the Landmark Building by +100 %, if it is available.\n\"A clever design that has the letter 'V' etched on the bottom.\""
+    },
+    {
+      "name": "Mouldy Oak",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_moldyOak.png?1c51dd",
+      "description": "\nCalls upon The Entity for the following effect:\nReduces the minimum distance between Spawn locations for Hooks by -1.5 metres.\n\"A damp and decaying piece of oak replete with mould.\""
+    },
+    {
+      "name": "Rotten Oak",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_rottenOak.png?1e09ee",
+      "description": "\nCalls upon The Entity for the following effect:\nReduces the minimum distance between Spawn locations for Hooks by -2.5 metres.\n\"A decomposing piece of oak in which strange markings have been etched.\""
+    },
+    {
+      "name": "Petrified Oak",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_petrifiedOak.png?325977",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the minimum distance between Spawn locations for Hooks by +1 metre.\n\"A deteriorating piece of petrified wood.\""
+    },
+    {
+      "name": "Putrid Oak",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_putridOak.png?6231cc",
+      "description": "\nCalls upon The Entity for the following effect:\nReduces the minimum distance between Spawn locations for Hooks by -3.5 metres.\n\"A ruined piece of oak oozing with a black putrescent liquid.\""
+    },
+    {
+      "name": "Azarov's Key",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_azarovsKey.png?7a4d16",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Autohaven Wreckers Realm to 20 %.\n\"A broken key pertaining to a vehicle of unknown brand.\nA key-chain attached to it identifies the owner as a certain 'A. Azarov'\""
+    },
+    {
+      "name": "Grandma's Cookbook",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_granmasCookbook.png?e2f732",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Backwater Swamp Realm to 20 %.\n\"A leather-bound book containing horrible human meat recipes such as the granny-slapping good chilli.\""
+    },
+    {
+      "name": "Heart Locket",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_heartLocket.png?37d076",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Coldwind Farm Realm to 20 %.\n\"A silver heart locket necklace.\nThe simple interior is engraved with the following: 'E+M'.\""
+    },
+    {
+      "name": "Charred Wedding Photograph",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_charredWeddingPhotograph.png?63060c",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Crotus Prenn Asylum Realm to 20 %.\n\"A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable.\""
+    },
+    {
+      "name": "Beef Tallow Mixture",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_beefTallowMixture.png?67bb69",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the The Decimated Borgo Realm to 20 %.\n\"The stink of rotting organic matter emanates from this foul mixture, designed with the grim intent to create a fire that burns very hot and very long.\""
+    },
+    {
+      "name": "Airlock Doors",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_airlockDoors.png?315559",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to the Nostromo Wreckage Map in the Dvarka Deepwood Realm to 20 %.\n\"You know the quarantine procedure.\n24 hours for decontamination.\" — Ellen Ripley"
+    },
+    {
+      "name": "Alien Flora",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_alienFlora.png?379c1d",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to the Toba Landing Map in the Dvarka Deepwood Realm to 20 %.\n\"Our arrival will change the face of this planet as we know it.\" — Sarah, Science Officer"
+    },
+    {
+      "name": "Crow's Eye",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_crowsEye.png?7f550c",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Forsaken Boneyard Realm to 20 %.\n\"The dark, beady eye shifts back and forth as if searching for a bloody strip of carrion.\""
+    },
+    {
+      "name": "Jigsaw Piece",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_jigsawPiece.png?2327a3",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Gideon Meat Plant Realm to 20 %.\n\"Congratulations.\nYou are still alive.\nMost people are so ungrateful to be alive.\nBut not you.\nNot anymore.\""
+    },
+    {
+      "name": "Shattered Bottle",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_shatteredBottle.png?705db8",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Grave of Glenvale Realm to 20 %.\n\"Ain't much for holding a drink no more, but it can sure make a mess of a fella's throat.\""
+    },
+    {
+      "name": "Strode Realty Key",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_strodeRealtyKey.png?592a29",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Haddonfield Realm to 20 %.\n\"A house key, mundane in appearance.\nA cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address:\n'45 Lampkin Lane'.\""
+    },
+    {
+      "name": "Hawkins National Laboratory ID",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_hawkinsNationalLaboratoryID.png?d7c80f",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Hawkins National Laboratory Realm to 20 %.\n\"A soggy, bloodstained identification card with a serial number.\""
+    },
+    {
+      "name": "Shattered Glasses",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_shatteredGlasses.png?4295f5",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Léry's Memorial Institute Realm to 20 %.\n\"Bent reading glasses.\nSpeckles of dried blood can be seen on the shattered lenses.\""
+    },
+    {
+      "name": "MacMillan's Phalanx Bone",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_macMillansPhalanxBone.png?3bdbd6",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the The MacMillan Estate Realm to 20 %.\n\"MacMillan's skeletal remains were found in the basement of the mine's storehouse.\nHis leg bones shattered into pieces and a mining hammer lying in his lap.\""
+    },
+    {
+      "name": "Damaged Photo",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_damagedPhoto.png?a1e1db",
+      "description": "\n28 August 1996\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Ormond Realm to 20 %.\n\"A dormant darkness lies beneath his childlike smile, about to be awakened.\""
+    },
+    {
+      "name": "RPD Badge",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_rpdBadge.png?278566",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Raccoon City Realm to 20 %.\n\"If we stay here that monster will find us.\""
+    },
+    {
+      "name": "The Last Mask",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_theLastMask.png?b3eb2b",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Red Forest Realm to 20 %.\n\"A beautifully crafted tiger mask that would fit snug on a child's face.\nA faded note in the Cyrillic alphabet can be found scripted on the back.\""
+    },
+    {
+      "name": "Mary's Letter",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_marysLetter.png?a6d7ce",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Silent Hill Realm.\nThis Offering modifies the Realm Selector Logic by a value of 20 %.\n\"In my restless dreams, I see that town.\""
+    },
+    {
+      "name": "The Pied Piper",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_thePiedPiper.png?d8afeb",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Springwood Realm.\nThis Offering modifies the Realm Selector Logic by a value of 20 %.\n\"Betrayed by the town, he exacts his revenge by taking all their children.\""
+    },
+    {
+      "name": "Ichorous Loam",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_ichorousLoam.png?8ec959",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Withered Isle Realm to 20 %.\n\"Expel malthought from your mind, from your heart, from your mouth, to prevent the darkness from corrupting your truth.\nFor to let darkness find seed in your soul is to invite The Druanee.\""
+    },
+    {
+      "name": "Yamaoka Family Crest",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_yamaokaFamilyCrest.png?b6188c",
+      "description": "\nCalls upon The Entity for the following effect:\nIncreases the chances to be sent to a Map in the Yamaoka Estate Realm to 20 %.\n\"You never leave a broken home.\nYou only run away until the memories stop haunting you.\""
+    },
+    {
+      "name": "Shroud of Union",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_shroudOfUnion.png?570201",
+      "description": "\nCalls upon The Entity for the following effect:\nYou start the Trial together with someone else.\n\"A knotted piece of fabric.\""
+    },
+    {
+      "name": "Vigo's Shroud",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_vigosShroud.png?7718f0",
+      "description": "\nCalls upon The Entity for the following effect:\nCauses you to spawn as far away from the Killer as possible.\n\"I found marvels through the years in The Fog, but only now do I understand how to bend The Fog's irrefragable rules.\" — Vigo's Journal"
+    },
+    {
+      "name": "Sacrificial Ward",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_sacrificialWard.png?d8f63c",
+      "description": "Calls upon The Entity for the following effect:\nCauses all Realm or Map Selection Offerings burnt by other Players to be rejected.\nSacrificial Ward is trumped only when all other Players burn the identical Realm or Map Selection Offering.\n\"With blind eyes, we surrender our will and appeal to you for guidance.\""
+    },
+    {
+      "name": "Black Ward",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_blackWard.png?6586a8",
+      "description": "\nCalls upon The Entity for the following effect:\nCauses your Add-ons to not be consumed after ending the Trial.\n\"Hear my voice, spare my ways, protect me from the void.\""
+    },
+    {
+      "name": "White Ward",
+      "image": "https://deadbydaylight.wiki.gg/images/IconFavors_whiteWard.png?c5222c",
+      "description": "\nCalls upon The Entity for the following effect:\nCauses your held Item to be protected from loss upon death.\nCauses any attached Add-ons to not be consumed upon death or escaping the Trial.\n\"Keep me from evil, defend me, and pass away.\""
+    },
+    {
+      "name": "Any offering",
+      "image": "IconModifier_chaosShuffle.png",
+      "description": "Pick any offering of your choosing"
+    },
+    {
+      "name": "No offering",
+      "image": "https://deadbydaylight.wiki.gg/images/DailyRitualIcon_brutality.png",
+      "description": "Nothing"
+    }
+  ]
+}

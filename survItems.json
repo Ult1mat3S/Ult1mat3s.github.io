@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "name": "Flashlight",
+      "itemKey": "flashlight",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_flashlight.png",
+      "rarity": "Uncommon",
+      "description": "A standard Flashlight.\nCan be used to light your way in the darkness.\n• Press the Use Item button to light the Flashlight for up to 8 seconds.\n\"Most of the battery life was wastefully used by the previous owner.\""
+    },
+    {
+      "name": "Sport Flashlight",
+      "itemKey": "flashlight",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_sportFlashlight.png",
+      "rarity": "Rare",
+      "description": "A very portable Flashlight with a good grip.\nIts efficient technology produces a powerful light while consuming less power.\n• Press the Use Item button to light the Flashlight for up to 8 seconds.\n• Has an increased Aim accuracy of +20 %.\n• Has a reduced Depletion rate of -11 %."
+    },
+    {
+      "name": "Utility Flashlight",
+      "itemKey": "flashlight",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_utilityFlashlight.png",
+      "rarity": "Very Rare",
+      "description": "A sturdy but heavy Flashlight that packs a lot of power.\n• Press the Use Item button to light the Flashlight for up to 12 seconds.\n• Has an increased Beam brightness of +30 %.\n• Has an increased Blindness duration of +15 %.\n• Has a reduced Aim accuracy of -20 %."
+    },
+    {
+      "name": "Camping Aid Kit",
+      "itemKey": "medkit",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_campingAidKit.png",
+      "rarity": "Common",
+      "description": "A first-aid kit containing basic equipment to treat minor injuries.\n• Unlocks the Self-Heal action.\n• Increases the Altruistic Healing speed by +35 %.\n• Starts with 16 Charges."
+    },
+    {
+      "name": "First Aid Kit",
+      "itemKey": "medkit",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_firstAidKit.png",
+      "rarity": "Uncommon",
+      "description": "A common First Aid Kit containing the necessary equipment to treat minor to moderate injuries.\n• Unlocks the Self-Heal action.\n• Increases the Altruistic Healing speed by +40 %.\n• Starts with 24 Charges."
+    },
+    {
+      "name": "Emergency Med-Kit",
+      "itemKey": "medkit",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_emergencyMedKit.png",
+      "rarity": "Rare",
+      "description": "A Med-Kit equipped with high-standard medical equipment.\n• Unlocks the Self-Heal action.\n• Increases the Altruistic Healing speed by +45 %.\n• Increases the Self-Healing speed by +10 %.\n• Starts with 24 Charges."
+    },
+    {
+      "name": "Ranger Med-Kit",
+      "itemKey": "medkit",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_rangerMedKit.png",
+      "rarity": "Very Rare",
+      "description": "A large metal box containing various medical supplies used in extreme conditions.\n• Unlocks the Self-Heal action.\n• Increases the Altruistic Healing speed by +50 %.\n• Increases the Success zone of Healing Skill Checks by +14 %.\n• Increases the Great Success zone of Healing Skill Checks by +15 %.\n• Starts with 32 Charges."
+    },
+    {
+      "name": "Worn-Out Tools",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_wornOutTools.png",
+      "rarity": "Common",
+      "description": "A small set of tools, most of them worn out or broken.\n• Unlocks the Repair action.\n• Increases the Repair speed by +50 %.\n• Decreases the Success zone of Skill Checks by -10 %.\n• Starts with 16 Charges."
+    },
+    {
+      "name": "Toolbox",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_toolbox.png",
+      "rarity": "Uncommon",
+      "description": "A metal box containing a set of basic tools.\n• Unlocks the Repair and Sabotage actions.\n• Increases the Repair speed by +50 %.\n• Increases the Sabotage speed by +10 %.\n• Starts with 20 Charges."
+    },
+    {
+      "name": "Mechanic's Toolbox",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_mechanicsToolbox.png",
+      "rarity": "Rare",
+      "description": "A metal box containing specialized tools for mechanical work.\n• Unlocks the Repair action.\n• Increases the Repair speed by +75 %.\n• Starts with 16 Charges."
+    },
+    {
+      "name": "Commodious Toolbox",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_commodiousToolbox.png",
+      "rarity": "Rare",
+      "description": "A large metal box containing a variety of tools.\n• Unlocks the Repair action.\n• Increases the Repair speed by +50 %.\n• Starts with 32 Charges."
+    },
+    {
+      "name": "Engineer's Toolbox",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_engineersToolbox.png",
+      "rarity": "Very Rare",
+      "description": "A professional Toolbox containing high-quality tools.\n• Unlocks the Repair action.\n• Increases the Repair speed by +100 %.\n• Starts with 16 Charges."
+    },
+    {
+      "name": "Alex's Toolbox",
+      "itemKey": "toolbox",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_alexsToolbox.png",
+      "rarity": "Very Rare",
+      "description": "A collection of tools primarily used for mechanics.\n• Unlocks the Repair and Sabotage actions.\n• Increases the Repair speed by +10 %.\n• Increases the Sabotage speed by +100 %.\n• Starts with 24 Charges."
+    },
+    {
+      "name": "Broken Key",
+      "itemKey": "key",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_brokenKey.png",
+      "rarity": "Rare",
+      "description": "A bent and broken key. Can be used as a channel for various Add-ons.\n• Starts with 10 seconds of use.\nBroken Keys cannot be used to open a Hatch."
+    },
+    {
+      "name": "Dull Key",
+      "itemKey": "key",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_dullKey.png",
+      "rarity": "Very Rare",
+      "description": "A dull, non-descript key that used to fit into something.\n• Starts with 5 seconds of use.\n• Can be used to instantly open the Hatch."
+    },
+    {
+      "name": "Skeleton Key",
+      "itemKey": "key",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_skeletonKey.png",
+      "rarity": "Ultra Rare",
+      "description": "A tarnished and crooked key that used to fit into anything.\n• Starts with 30 seconds of use.\n• Can be used to instantly open the Hatch."
+    },
+    {
+      "name": "Map",
+      "itemKey": "map",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_map.png",
+      "rarity": "Rare",
+      "description": "A piece of parchment that maps the immediate surroundings.\n• Starts with 20 seconds of use.\n• Tracks Generators within 8 metres."
+    },
+    {
+      "name": "Rainbow Map",
+      "itemKey": "map",
+      "image": "https://deadbydaylight.wiki.gg/images/IconItems_rainbowMap.png",
+      "rarity": "Ultra Rare",
+      "description": "A Map of a mysterious nature. It tracks many different types of objects.\n• Starts with 20 seconds of use.\n• Tracks Objectives, Killer's Belongings, and the Hatch within 8 metres."
+    },
+    {
+      "name": "Any Item",
+      "itemKey": "Any",
+      "image": "IconModifier_chaosShuffle.png",
+      "rarity": "None",
+      "description": "Pick any item of your choosing"
+    },
+    {
+      "name": "No Item",
+      "itemKey": "None",
+      "image": "https://deadbydaylight.wiki.gg/images/DailyRitualIcon_brutality.png",
+      "rarity": "None",
+      "description": "Nothing"
+    }
+  ]
+}
